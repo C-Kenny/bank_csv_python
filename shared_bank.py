@@ -6,7 +6,7 @@ Usage: Place the python script and .csv reader in the same directory for
 simplicity. Next, navigate to the directory of the .csv in question using 
 your favourite cli.
 
-python bank3.py example.csv > output.txt 
+$ python3 shared_bank.py example.csv > output.txt 
 
 The above usage assumes windows use. Linux users, you know what to do.
 '''
