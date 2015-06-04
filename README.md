@@ -13,5 +13,4 @@ In order to use this scipt, you must have [Python 3](https://www.python.org/down
 
 ___
 
-Im wanting to add graph functionality in the near future, so please get in touch
-if you would like to help with this!
+Im wanting to add graph functionality in the near future, so if you have any experience generating reports with Python, I'd love to hear what you recommend! 
